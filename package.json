@@ -1,11 +1,6 @@
 {
-  "name": "comment-publisher",
-  "version": "1.0.0",
-  "main": "main.js",
-  "scripts": {
-    "start": "electron ."
-  },
-  "devDependencies": {
-    "electron": "^32.1.2"
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^24.12.1"
   }
 }
